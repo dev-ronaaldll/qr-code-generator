@@ -2,7 +2,7 @@
 
 Simple app to generate and download a QR code that can be used to share a link.
 
-[Live Demo](https://qrcodes.tech)
+[Link](https://www.youtube.com/watch?v=qNiUlml9MDk&ab_channel=TraversyMedia)
 
 <img src="img/screen.png">
 
